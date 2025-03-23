@@ -1,0 +1,20 @@
+*   4d72295 (HEAD -> master, origin/master) Merge branch '2-find-all-completed-tasks'
+|\
+| * e8bba7a (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Add find all completed tasks functionality
+* |   27b4a14 Merge pull request #12 from AndrejGjorevski/3-list-tasks-sorted-by-name
+|\ \
+| * \   de4bdc7 (origin/3-list-tasks-sorted-by-name) Merge branch 'master' into 3-list-tasks-sorted-by-name
+| |\ \
+| |/ /
+|/| |
+* | | a733c36 Fix merge conflict with branch list-tasks-sorted-by-name
+* | |   a7299a0 Merge pull request #10 from AndrejGjorevski/1-remove-a-task-by-name
+|\ \ \
+| |_|/
+|/| |
+| * | d4824f9 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Add remove a task by name functionality
+|/ /
+| * fd7f6c0 (3-list-tasks-sorted-by-name) Add list tasks sorted by name functionality
+|/
+* 8e5a703 Add starter code
+* a01e09b Initial commit
